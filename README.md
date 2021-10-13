@@ -21,3 +21,7 @@ $ python3 autopush.py
 ### License
 
 Original creator - Joss C
+
+### TODO 
+
+- Create a requirements file to list needed package ?
